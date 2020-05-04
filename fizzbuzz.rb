@@ -1,3 +1,27 @@
+
+def fizzbuzz
+
+
+
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #def fizzbuzz(i)
 
 #  if i % 15 == 0
@@ -12,7 +36,3 @@
 
 #  end
 #
-
-Dont know what to do
-  
-end
