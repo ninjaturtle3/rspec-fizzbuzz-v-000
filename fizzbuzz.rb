@@ -4,6 +4,7 @@ def fizzbuzz (i)
     "Fizz"
   elsif i % 5 == 0
     "Buzz"
+else i % 3 == 0 && i % 5 == 0
 
   end
 
