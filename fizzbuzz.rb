@@ -22,11 +22,7 @@ end
 
 
 
-
-
-
-
-# 
+#
 # def fizzbuzz(i)
 #
 #  if i % 15 == 0
