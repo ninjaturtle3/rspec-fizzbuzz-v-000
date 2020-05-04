@@ -6,7 +6,7 @@ def fizzbuzz (i)
     "Buzz"
   elsif i % 3 == 0
     "Fizz"
-  else !(i % 3 == 0 && i % 5 == 0)
+  else !(i % 3 == 0 || i % 5 == 0)
     nil
   end
 
