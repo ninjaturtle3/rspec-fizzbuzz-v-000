@@ -4,8 +4,10 @@ def fizzbuzz (i)
     "FizzBuzz"
   elsif i % 5 == 0
     "Buzz"
-  else i % 3 == 0
-  "Fizz"
+  elsif i % 3 == 0
+    "Fizz"
+  else !(i % 3 == 0 && i % 5 == 0)
+    nil
   end
 
 end
