@@ -29,7 +29,7 @@ end
 
 #def fizzbuzz(i)
 
-#  if i % 15 == 0
+#  if i % 15 == 0  here the 15 is the least common multiplier (LCM). meaning that if the i is divisible by both 3 and 5 it is divisible by 15
 #  "FizzBuzz"
 #  elsif i % 3 == 0
 #  "Fizz"
